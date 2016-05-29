@@ -4,11 +4,6 @@ import js.Browser;
 import js.Lib;
 import mithril.M;
 
-/**
- * ...
- * @author Jonas Nyström
- */
-
 class Main 
 {	
 	static function main() 
